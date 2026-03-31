@@ -17,14 +17,10 @@ Estou em constante evolução, aprendendo novas tecnologias e buscando cada vez 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Back-end & runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
 **CMS & Low-code**
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![GreatPages](https://img.shields.io/badge/GreatPages-4353FF?style=flat-square&logo=greatpages&logoColor=white)
 
 **Ferramentas**
 
